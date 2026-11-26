@@ -9,6 +9,7 @@ I'm starting with Linux and command line fundamentals, then moving into forensic
 ### OverTheWire: Bandit
 - [Levels 0-5](overthewire-bandit/levels-00-05.md)
 - [Levels 6-15](overthewire-bandit/levels-06-15.md)
+- [Levels 16-24](overthewire-bandit/levels-16-24.md)
 
 ## Notes
 
